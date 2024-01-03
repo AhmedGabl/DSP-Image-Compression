@@ -14,9 +14,3 @@ The project focuses on:
 ![DSP_image_compression_page-0015](https://github.com/AhmedGabl/DSP-Image-Compression/assets/63268983/db35b684-c556-4f77-be7b-cd38d9747e03)
 ![DSP_image_compression_page-0014](https://github.com/AhmedGabl/DSP-Image-Compression/assets/63268983/73017dd9-d649-41a6-9a27-64dfaff81efa)
 ![DSP_image_compression_page-0012](https://github.com/AhmedGabl/DSP-Image-Compression/assets/63268983/eb406f15-4972-4d64-99f5-effedbc6598e)
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/dsp-image-compression.git
